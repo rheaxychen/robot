@@ -2,7 +2,7 @@
 
 *Team 9 - ENGR 202 - Winter 2018 - University of Washington*
 
-Final deliverable can be viewed here: [project deliverable](./Deliverable_Stair-climbing-robot.pdf), [presentation poster](./Poster/poster.pdf). 
+Final deliverable can be viewed here: [project deliverable](./stair-climbing-robot-deliverable.pdf), [presentation poster](./Poster/poster.pdf). 
 
 ### Reference for file names
 
